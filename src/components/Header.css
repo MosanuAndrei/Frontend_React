@@ -1,0 +1,28 @@
+.header-logo{
+    color: #1089FF;
+    display: inline-flex;
+}
+.header-img{
+    font-size: 22px;
+    padding: 22px 1px;
+}
+
+.header-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header-nav{
+    text-align: center;
+    background-color: #1089FF;
+    padding: 8px;
+    padding-top: 5px;
+}
+
+.header-link{
+    font-size: 20px;
+    padding: 10px 20px;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}

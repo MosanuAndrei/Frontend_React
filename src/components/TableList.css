@@ -1,0 +1,12 @@
+table{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td{
+    text-align: left;
+    padding: 10px;
+    padding-right: 200px;
+    border:solid 1px rgb(238, 229, 229);
+}
